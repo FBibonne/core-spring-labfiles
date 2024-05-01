@@ -36,3 +36,5 @@ bin/
 .vscode/
 README.html
 
+# Other files (used by build scripts ?)
+core-spring-labfiles-codebase.txt
